@@ -23,13 +23,10 @@ export default function AboutSection() {
 
             <div>
               <p className="font-semibold text-white mb-1">Backend:</p>
-              <p className="text-gray-300">Node.js + Express para APIs rápidas y organizadas.</p>
+              <p className="text-gray-300">Disfruto crear soluciones backend con C#, ASP.NET API y SQL Server, y también uso Node.js según la necesidad. </p>
             </div>
 
-            <div>
-              <p className="font-semibold text-white mb-1">En progreso:</p>
-              <p className="text-gray-300">Integrando TypeScript para mejorar estructura y mantenibilidad.</p>
-            </div>
+            
           </div>
         </div>
 
@@ -42,7 +39,7 @@ export default function AboutSection() {
           <p className="mb-6 text-gray-200">Unirme a un equipo donde pueda:</p>
 
           <ul className="space-y-4 list-disc pl-5 text-gray-300">
-            <li>Aportar con React/Node</li>
+            <li>Aportar con mis conocimientos</li>
             <li>Mejorar buenas prácticas y arquitectura</li>
             <li>Aprender de colegas con más experiencia</li>
             <li>Crecer como dev versátil</li>
